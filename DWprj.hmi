@@ -1,0 +1,14 @@
+[INIT]
+VARCount=64
+PICFIX=1
+SCREENDSIZE=480X272
+SPADDRESS=5000
+[IMG]
+0=0.BootScreen.bmp
+10=10.Main.bmp
+11=11.Main_selected.bmp
+20=20.Temperatures.bmp
+21=21.Temperatures_selected.bmp
+250=250.Killscreen.bmp
+252=252.Popup.bmp
+253=253.Popup_selected.bmp
