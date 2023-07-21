@@ -17,5 +17,4 @@ Please make sure to only use FOSS compatible resources.
 # UI Design software
 
 The software used to design the UI is DGUS_Setup_v5.1 and can be found here.
-http://www.ampdisplay.com/download1.php?cat=HMI%20UART(DWIN)&sub_cat=DGUS
-
+(https://www.ampdisplay.com/amp_support_downloads/DGUS_Setup_v5.1.exe.zip)
